@@ -1,0 +1,13 @@
+{
+    "require": {
+        "doctrine/orm": "2.4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "WebDevBr": "src"
+        }
+    },
+    "config": {
+        "bin-dir": "./bin"
+    }
+}
